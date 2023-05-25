@@ -10,7 +10,7 @@
      <img align="center" alt="html" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
      
 </div>
-#####
+<hr>
 <div>
      <p> How to reach me: jessica.santosb@outlook.com</p>
      <a href="https://www.linkedin.com/in/jessica-santosb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
