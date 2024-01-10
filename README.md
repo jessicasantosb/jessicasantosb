@@ -18,7 +18,7 @@
 
 📚 Currently Learning: React
 
-🚀 2023 Goals: Create impactful personal projects and secure a new job opportunity.
+🚀 2024 Goals: Create impactful personal projects and secure a new job opportunity.
 
 <br>
 <br>
@@ -27,7 +27,7 @@
 <br>
 
 ## 💬 About Me
-<p align="justify">I'm a 25-year-old self-taught front-end developer, passionate about creating stunning user interfaces. I'm dedicated to learning and continually improving my skills. My portfolio is a testament to my desire to innovate and experiment with new ideas.</p>
+<p align="justify">I am a 25-year-old self-taught web developer focused on improving my front-end skills. I'm dedicated to learning and continually improving my skills. My portfolio is a testament to my desire to innovate and experiment with new ideas.</p>
 
 - Thanks for stopping by!
 
