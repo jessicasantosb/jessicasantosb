@@ -1,55 +1,53 @@
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-     
 <br>
 <br>
-<div align="center" >
-     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music+🎶;I+Love+Being+In+The+Nature+🌳;I+Love+Learning+New+Things+🤔;I+Love+Coding+💻" alt="Headline" /> 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music+🎶;I+Love+Being+In+The+Nature+🌳;I+Love+Learning+New+Things+🤔;I+Love+Coding+💻" alt="Headline" /> 
 </div>
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<br>
-<br>
 
-## 👩‍💻 I'm Jessica Bandeira
-🌍 Based in Brazil
-
-📚 Currently Learning: React
-
-🚀 2024 Goals: Create impactful personal projects and secure a new job opportunity.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<br>
-<br>
 
-## 💬 About Me
-<p align="justify">I am a 25-year-old self-taught web developer focused on improving my front-end skills. I'm dedicated to learning and continually improving my skills. My portfolio is a testament to my desire to innovate and experiment with new ideas.</p>
+## 👩‍💻 Sobre Mim
+
+[Português]
+  <p align="justify">
+    Sou uma desenvolvedora web autodidata de 25 anos, dedicada a aprender continuamente e aprimorar minhas habilidades. Meu portfólio reflete meu desejo de inovar e experimentar novas ideias.
+  </p>
+
+- Obrigada pela visita!
+
+[English]
+  <p align="justify">
+    I am a 25-year-old self-taught web developer focused on constantly learning and improving my skills. My portfolio is a testament to my desire to innovate and experiment with new ideas.
+  </p>
 
 - Thanks for stopping by!
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<br>
-<br>
 
-## Connect with Me
+## 🌐 Conecte-se Comigo
+
 <p align="center">
-<a href="https://www.linkedin.com/in/jessica-santosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpradiip" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jessica-santosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
 </p>
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-<br>
-<br>
 
-## 💻 Favourite Tools and Technologies
-<div>
+## 💻 Ferramentas e Tecnologias Favoritas
+  <table align="center">
+    <div>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -108,27 +106,22 @@
       </td>
       </td>
  </tr>
-</table>
-<br><br>
+  </table>
+  <br>
 </div>
+
 <div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=rose_pine" alt="Top Langs" width="100%">
   </p>
 </div>
+
 <br>
 <br>
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-
-
-
-
-          
-     
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
