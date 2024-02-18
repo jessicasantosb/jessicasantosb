@@ -3,19 +3,6 @@
 </p>
 
 <br>
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+To+Music+🎶;I+Love+Being+In+The+Nature+🌳;I+Love+Learning+New+Things+🤔;I+Love+Coding+💻" alt="Headline" /> 
-</div>
-
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-<br>
 
 ## 👩‍💻 Sobre Mim
 
@@ -40,6 +27,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessica-santosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+  <a href="https://twitter.com/jessicab_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="twitter" height="40" width="50" /></a>
 </p>
 
 <br>
@@ -114,14 +102,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=rose_pine" alt="Top Langs" width="100%">
   </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=rose_pine" alt="Stats" width="100%">
+  </p>
 </div>
-
-<br>
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
