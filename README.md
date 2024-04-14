@@ -8,14 +8,14 @@
 
 [Português]
   <p align="justify">
-    Sou uma desenvolvedora web autodidata de 25 anos, dedicada a aprender continuamente e aprimorar minhas habilidades. Meu portfólio reflete meu desejo de inovar e experimentar novas ideias.
+    Sou uma Desenvolvedora Web, dedicada a aprender e aprimorar minhas habilidades no universo Frontend. Meu portfólio reflete meu desejo de inovar e experimentar novas ideias.
   </p>
 
 - Obrigada pela visita!
 
 [English]
   <p align="justify">
-    I am a 25-year-old self-taught web developer focused on constantly learning and improving my skills. My portfolio is a testament to my desire to innovate and experiment with new ideas.
+     I am a Web Developer who wants to learn and improve my skills in the Frontend universe. My portfolio is a testament to my desire to innovate and experiment with new ideas.
   </p>
 
 - Thanks for stopping by!
