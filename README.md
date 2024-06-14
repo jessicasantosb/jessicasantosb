@@ -26,7 +26,7 @@
 ## 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jessica-santosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jessicasantosb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
   <a href="https://twitter.com/jessicab_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="twitter" height="40" width="50" /></a>
 </p>
 
