@@ -6,16 +6,16 @@
 
 ## 👩‍💻 Sobre Mim
 
-[Português]
+**[Português]**
   <p align="justify">
-    Sou uma Desenvolvedora Web, dedicada a aprender e aprimorar minhas habilidades no universo Frontend. Meu portfólio reflete meu desejo de inovar e experimentar novas ideias.
+    👋 Olá! Sou a Jessica, desenvolvedora Web com foco em Frontend, sempre empenhada em expandir e refinar minhas habilidades.
   </p>
 
 - Obrigada pela visita!
 
-[English]
+**[English]**
   <p align="justify">
-     I am a Web Developer who wants to learn and improve my skills in the Frontend universe. My portfolio is a testament to my desire to innovate and experiment with new ideas.
+    👋 Hello, I'm Jessica, a Web Developer specializing in Frontend who is always looking to expand and refine her skills.
   </p>
 
 - Thanks for stopping by!
