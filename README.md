@@ -26,10 +26,10 @@
 ## 🌐 You can find me on
 
 <div align="center"> 
-  <a href="https://x.com/jessicab_dev"><img src="https://img.shields.io/badge/-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=x"/></a>
-  <a href="mailto:jessica.santosb@outlook.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-  <a href="https://www.linkedin.com/in/jessicasantosb/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-  <img src="https://img.shields.io/badge/jessica.santosb-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
+  <a href="https://x.com/jessicab_dev"><img src="https://img.shields.io/badge/-16423C?style=for-the-badge&logoColor=F2F2F2&logo=x"/></a>
+  <a href="mailto:jessica.santosb@outlook.com"><img src="https://img.shields.io/badge/email-16423C?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+  <a href="https://www.linkedin.com/in/jessicasantosb/"><img src="https://img.shields.io/badge/linkedin-16423C?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+  <img src="https://img.shields.io/badge/jessica.santosb-16423C?logo=discord&labelColor=16423C&style=for-the-badge&logoColor=F2F2F2"/></p>
 </div>
 
 <br>
@@ -121,9 +121,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=rose_pine" alt="Top Langs"  height=300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=gruvbox&bg_color=16423C" alt="Top Langs"  height=300">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=rose_pine" alt="Stats"  height="300">
+    <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=gruvbox&bg_color=16423C" alt="Stats"  height="300">
   </p>
 </div>
