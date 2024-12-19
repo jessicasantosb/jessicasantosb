@@ -1,21 +1,16 @@
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
-
-<br>
-
 ## 👩‍💻 About me
 
 **[Português]**
   <p align="justify">
-    👋 Olá! Sou a Jessica, desenvolvedora Web com foco em Frontend, sempre empenhada em expandir e refinar minhas habilidades.
+    👋 Olá! Sou a Jessica, profissional com mais de 2 anos de estudo em Desenvolvimento Web, com foco em Frontend. Atualmente iniciando graduação em Análise e Desenvolvimento de Sistemas. Estou sempre aberta a oportunidades de colaboração e aprendizado.
+
   </p>
 
 - Obrigada pela visita!
 
 **[English]**
   <p align="justify">
-    👋 Hello, I'm Jessica, a Web Developer specializing in Frontend who is always looking to expand and refine her skills.
+    👋 Hello, I am Jessica, a professional with more than 2 years of study in web development, with a focus on frontend. I am currently studying Software Analysis and Development. I am always open to collaboration and learning opportunities.
   </p>
 
 - Thanks for stopping by!
