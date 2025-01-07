@@ -20,99 +20,102 @@
 
 ## 🌐 You can find me on
 
-<div align="center"> 
-  <a href="https://x.com/jessicab_dev"><img src="https://img.shields.io/badge/-16423C?style=for-the-badge&logoColor=F2F2F2&logo=x"/></a>
-  <a href="mailto:jessica.santosb@outlook.com"><img src="https://img.shields.io/badge/email-16423C?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-  <a href="https://www.linkedin.com/in/jessicasantosb/"><img src="https://img.shields.io/badge/linkedin-16423C?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-  <img src="https://img.shields.io/badge/jessica.santosb-16423C?logo=discord&labelColor=16423C&style=for-the-badge&logoColor=F2F2F2"/></p>
-</div>
+<table align="center"> 
+   <tr>
+    <td align="center" width="96">
+       <a href="https://x.com/jessicab_dev">
+         <img src="/assets/x.svg" alt="X"/>
+       </a>
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:jessica.santosb@outlook.com">
+        <img src="/assets/mail.svg" alt="email"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/jessicasantosb/">
+        <img src="/assets/linkedin.svg" alt="linkedin"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://discordapp.com/users/908783512662974464">
+         <img src="/assets/discord.svg" alt="discord"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
 
 ## 💻 Tech Stack
 
-<div>
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>Typescript
-      </td>    
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-      </td>    
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-        <br>NextJS
-      </td>    
-    </tr>
-    <tr>
-      <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-        <br>Github
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-        <br>VsCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Linux" />
-        <br>Insomnia
-      </td>
-    </tr>
-    <tr>
-      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
-      </td>
-      <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
-        <br>SASS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-        <br>Nodejs
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>    
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Nodejs" />
-        <br>Mongoose
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="MongoDB" />
-        <br>Prisma
-      </td>
-    </tr>
-  </table>
-  <br>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="/assets/html5.svg" alt="HTML"><br><strong>HTML</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/css3.svg" alt="CSS"><br><strong>CSS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/sass.svg" alt="SASS"><br><strong>SASS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/tailwindcss.svg" alt="Tailwind"><br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/shadcnui.svg" alt="ShadcnUI"><br><strong>ShadcnUI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="/assets/javascript.svg" alt="JavaScript"><br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/typescript.svg" alt="TypeScript"><br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/react.svg" alt="React"><br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/next.svg" alt="NextJS"><br><strong>NextJS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/zod.svg" alt="Zod"><br><strong>Zod</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="/assets/git.svg" alt="Git"><br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/github.svg" alt="GitHub"><br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/linux.svg" alt="Linux"><br><strong>Linux</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/insomnia.svg" alt="Insomnia"><br><strong>Insomnia</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="/assets/node.svg" alt="Node.js"><br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/mongodb.svg" alt="MongoDB"><br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/mongoose.svg" alt="Mongoose"><br><strong>Mongoose</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="/assets/prisma.svg" alt="Prisma"><br><strong>Prisma</strong>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <p align="center">
