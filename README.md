@@ -1,4 +1,8 @@
-## 👩‍💻 About me
+<img src="/assets/jessica.png" alt="jessica" align="center" width="100%" />
+
+<br>
+
+<h2 style="color: #16423C;">👩‍💻 About me</h2>
 
 **[Português]**
   <p align="justify">
@@ -18,7 +22,7 @@
 <br>
 <br>
 
-## 🌐 You can find me on
+<h2 style="color: #16423C;">🌐 You can find me on</h2>
 
 <table align="center"> 
    <tr>
@@ -50,7 +54,7 @@
 <br>
 <br>
 
-## 💻 Tech Stack
+<h2 style="color: #16423C;">💻 Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -117,11 +121,9 @@
   </tr>
 </table>
 
-<div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=gruvbox&bg_color=16423C" alt="Top Langs"  height=300">
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=gruvbox&bg_color=16423C" alt="Stats"  height="300">
   </p>
-</div>
