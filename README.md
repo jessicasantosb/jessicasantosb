@@ -1,6 +1,4 @@
-<img src="/assets/jessica.png" alt="jessica" align="center" width="100%" />
-
-<br>
+<img src="/assets/header.png" alt="header" align="center" width="100%" />
 
 <h2 style="color: #16423C;">👩‍💻 About me</h2>
 
@@ -127,3 +125,4 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=gruvbox&bg_color=16423C" alt="Stats"  height="300">
   </p>
+<img src="/assets/footer.png" alt="footer" align="center" width="100%" />
