@@ -1,21 +1,30 @@
 <img src="/assets/header.png" alt="header" align="center" width="100%" />
 
-<h2 style="color: #16423C;">👩‍💻 About me</h2>
+<h2 style="color: #16423C;">👩‍💻 A Little About Me</h2>
 
 **[Português]**
 
-  <p align="justify">
-    👋 Olá! Sou a Jessica, profissional com mais de 2 anos de estudo em Desenvolvimento Web, com foco em Frontend. Atualmente iniciando graduação em Análise e Desenvolvimento de Sistemas. Estou sempre aberta a oportunidades de colaboração e aprendizado.
+👋 Olá! Sou a Jessica
+    
+🔨 O que faço:
 
-  </p>
+✔ Desenvolvo interfaces dinâmicas com React, Next.js e Vue.js (incluindo arquitetura de compound components)  
+✔ Construo APIs robustas com Node.js, Express e MongoDB  
+✔ Otimizo fluxos de trabalho com Docker, Git avançado e metodologias ágeis  
+✔ Gerencio estado complexo usando Zustand, TanStack Query e Context API  
 
 - Obrigada pela visita!
 
 **[English]**
 
-  <p align="justify">
-    👋 Hello, I am Jessica, a professional with more than 2 years of study in web development, with a focus on frontend. I am currently studying Software Analysis and Development. I am always open to collaboration and learning opportunities.
-  </p>
+👋 Hello, I am Jessica
+
+🔨 What I do:
+
+✔ Develop dynamic interfaces with React, Next.js, and Vue.js (including compound component architecture)  
+✔ Build robust APIs using Node.js, Express, and MongoDB  
+✔ Optimize workflows with Docker, advanced Git, and agile methodologies  
+✔ Manage complex state with Zustand, TanStack Query, and Context API  
 
 - Thanks for stopping by!
 
@@ -54,7 +63,7 @@
 <br>
 <br>
 
-<h2 style="color: #16423C;">💻 Tech Stack</h2>
+<h2 style="color: #16423C;">💻 Tech stack I'm most comfortable with</h2>
 
 <table align="center">
   <tr>
@@ -91,35 +100,22 @@
       <img src="/assets/next.svg" alt="NextJS"><br><strong>NextJS</strong>
     </td>
     <td align="center" width="72">
-      <img src="/assets/zod.svg" alt="Zod"><br><strong>Zod</strong>
+      <img src="/assets/vue.svg" alt="VueJS"><br><strong>VueJs</strong>
     </td>
     <td align="center" width="72">
-      <img src="/assets/vercel.svg" alt="Vercel"><br><strong>Vercel</strong>
+      <img src="/assets/zustand.svg" alt="Zustand"><br><strong>Zustand</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/tanstack.svg" alt="Tanstack"><br><strong>Tanstack</strong>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="72">
-      <img src="/assets/git.svg" alt="Git"><br><strong>Git</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/github.svg" alt="GitHub"><br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/canva.svg" alt="Canva"><br><strong>Canva</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/linux.svg" alt="Linux"><br><strong>Linux</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/insomnia.svg" alt="Insomnia"><br><strong>Insomnia</strong>
-    </td>
-    <td align="center" width="72">
-      <img src="/assets/docker.svg" alt="Docker"><br><strong>Docker</strong>
-    </td>
-  </tr>
-  <tr>
+  
+   <tr>
     <td align="center" width="72">
       <img src="/assets/node.svg" alt="Node.js"><br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/espress.svg" alt="Express"><br><strong>Express</strong>
     </td>
     <td align="center" width="72">
       <img src="/assets/mongodb.svg" alt="MongoDB"><br><strong>MongoDB</strong>
@@ -135,6 +131,33 @@
     </td>
     <td align="center" width="72">
       <img src="/assets/supabase.svg" alt="Supabase"><br><strong>Supabase</strong>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="72">
+      <img src="/assets/git.svg" alt="Git"><br><strong>Git</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/zod.svg" alt="Zod"><br><strong>Zod</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/vercel.svg" alt="Vercel"><br><strong>Vercel</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/canva.svg" alt="Canva"><br><strong>Canva</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/figma.svg" alt="Figma"><br><strong>Figma</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/linux.svg" alt="Linux"><br><strong>Linux</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/insomnia.svg" alt="Insomnia"><br><strong>Insomnia</strong>
+    </td>
+    <td align="center" width="72">
+      <img src="/assets/docker.svg" alt="Docker"><br><strong>Docker</strong>
     </td>
   </tr>
 </table>
