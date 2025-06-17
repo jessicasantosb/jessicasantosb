@@ -115,7 +115,7 @@
       <img src="/assets/node.svg" alt="Node.js"><br><strong>Node.js</strong>
     </td>
     <td align="center" width="72">
-      <img src="/assets/espress.svg" alt="Express"><br><strong>Express</strong>
+      <img src="/assets/express.svg" alt="Express"><br><strong>Express</strong>
     </td>
     <td align="center" width="72">
       <img src="/assets/mongodb.svg" alt="MongoDB"><br><strong>MongoDB</strong>
