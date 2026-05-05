@@ -141,31 +141,11 @@ Currently working as a Fullstack Developer.
   </tr>
 </table>
 
-<h2 style="color: #16423C;">🌐 You can find me on</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantosb&layout=compact&theme=gruvbox&bg_color=16423C" alt="Top Langs"  height="300">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jessicasantosb&show_icons=true&theme=gruvbox&bg_color=16423C" alt="Stats"  height="300">
+  </p>
 
-<table align="center"> 
-   <tr>
-    <td align="center" width="72">
-       <a href="https://x.com/jessicab_dev">
-         <img src="/assets/x.svg" alt="X"/>
-       </a>
-    </td>
-    <td align="center" width="72">
-      <a href="mailto:jessica.santosb@outlook.com">
-        <img src="/assets/mail.svg" alt="email"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="72">
-      <a href="https://www.linkedin.com/in/jessicasantosb/">
-        <img src="/assets/linkedin.svg" alt="linkedin"/>
-      </a>
-    </td>
-    <td align="center" width="72">
-      <a href="https://discordapp.com/users/908783512662974464">
-         <img src="/assets/discord.svg" alt="discord"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="/assets/footer.png" alt="footer" align="center" width="100%" />
