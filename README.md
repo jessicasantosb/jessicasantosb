@@ -38,55 +38,30 @@ Currently working as a Fullstack Developer.
 <h2 style="color: #16423C;">🌐 You can find me on</h2>
 
 <table align="center"> 
-
    <tr>
-
     <td align="center" width="72">
-
        <a href="https://x.com/jessicab_dev">
-
          <img src="/assets/x.svg" alt="X"/>
-
        </a>
-
     </td>
-
     <td align="center" width="72">
-
       <a href="mailto:jessica.santosb@outlook.com">
-
         <img src="/assets/mail.svg" alt="email"/>
-
       </a>
-
     </td>
-
   </tr>
-
   <tr>
-
     <td align="center" width="72">
-
       <a href="https://www.linkedin.com/in/jessicasantosb/">
-
         <img src="/assets/linkedin.svg" alt="linkedin"/>
-
       </a>
-
     </td>
-
     <td align="center" width="72">
-
       <a href="https://discordapp.com/users/908783512662974464">
-
          <img src="/assets/discord.svg" alt="discord"/>
-
       </a>
-
     </td>
-
   </tr>
-
 </table>
 
 <br>
@@ -168,56 +143,29 @@ Currently working as a Fullstack Developer.
 
 <h2 style="color: #16423C;">🌐 You can find me on</h2>
 
-
-
 <table align="center"> 
-
    <tr>
-
     <td align="center" width="72">
-
        <a href="https://x.com/jessicab_dev">
-
          <img src="/assets/x.svg" alt="X"/>
-
        </a>
-
     </td>
-
     <td align="center" width="72">
-
       <a href="mailto:jessica.santosb@outlook.com">
-
         <img src="/assets/mail.svg" alt="email"/>
-
       </a>
-
     </td>
-
   </tr>
-
   <tr>
-
     <td align="center" width="72">
-
       <a href="https://www.linkedin.com/in/jessicasantosb/">
-
         <img src="/assets/linkedin.svg" alt="linkedin"/>
-
       </a>
-
     </td>
-
     <td align="center" width="72">
-
       <a href="https://discordapp.com/users/908783512662974464">
-
          <img src="/assets/discord.svg" alt="discord"/>
-
       </a>
-
     </td>
-
   </tr>
-
 </table>
