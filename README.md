@@ -13,7 +13,7 @@ Atualmente, atuo como Desenvolvedora Fullstack.
 ✔ Desenvolvo interfaces web utilizando React, Typescript e Tailwind.    
 ✔ Construo APIs robustas com Python, Pydantic e SQLAlchemy.    
 ✔ Utilizo Docker, controle de versão avançado com Git e metodologias ágeis no dia a dia.  
-✔ No momento, estou dedicando meus estudos à linguagem Go.  
+✔ No momento, estou dedicando meus estudos à linguagem Rust.  
 
 - Obrigada pela visita!
 
@@ -98,7 +98,7 @@ Currently working as a Fullstack Developer.
       <img src="/assets/python.svg" alt="Python"><br><strong>Python</strong>
     </td>
     <td align="center" width="72">
-      <img src="/assets/go.svg" alt="Go"><br><strong>Go</strong>
+      <img src="/assets/rust.svg" alt="Rust"><br><strong>Rust</strong>
     </td>
     <td align="center" width="72">
       <img src="/assets/zod.svg" alt="Zod"><br><strong>Zod</strong>
